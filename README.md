@@ -2,7 +2,7 @@
 
 An interactive educational website about the three fundamental gas laws, developed as my AQA Computer Science NEA (Non-Exam Assessment). This site explains and visualizes Boyle’s, Charles’s, and Gay-Lussac’s laws for students in a clear and interactive way.
 
-🔗 **Live Demo:** https://standrewscambridge.github.io/Gas/
+🔗 **Live Website:** https://standrewscambridge.github.io/Gas/
 
 ---
 
@@ -11,9 +11,9 @@ An interactive educational website about the three fundamental gas laws, develop
 As part of my AQA Computer Science NEA project, I built this website to help learners understand how ideal gas properties (pressure, volume, and temperature) are related to one another. Interactive simulations and clear diagrams allow users to:
 
 - **Visualize** how changing one variable affects the others
-- ![](./DemoPics/P6)
+- ![SimulationDemo](./DemoPics/P6)
 - **Gas simulation** with real-time sliders
-- ![](./DemoPics/P2)
+- ![SimulationDemo](./DemoPics/P2)
 - **Read** concise theory sections with worked examples  
 
 ---
