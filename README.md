@@ -11,9 +11,9 @@ An interactive educational website about the three fundamental gas laws, develop
 As part of my AQA Computer Science NEA project, I built this website to help learners understand how ideal gas properties (pressure, volume, and temperature) are related to one another. Interactive simulations and clear diagrams allow users to:
 
 - **Visualize** how changing one variable affects the others
-- ![SimulationDemo](./DemoPics/P6)
+- ![SimulationDemo](./demoPics/P6.png)
 - **Gas simulation** with real-time sliders
-- ![SimulationDemo](./DemoPics/P2)
+- ![SimulationDemo](./demoPics/P2.png)
 - **Read** concise theory sections with worked examples  
 
 ---
